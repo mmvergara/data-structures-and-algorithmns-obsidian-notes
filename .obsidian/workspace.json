@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "44c4691fd78e4311",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba42f748ce0cd58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9606a0d95da9886c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d60783aa16747d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "a068d1bb3bc2a5c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ced738b1d2ec7ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de503b6c9e3f939c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Binary-Search",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f755b2400b70b46b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e268c4136d80c514",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c934df6f3353e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36671fee564fb74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8883cde87fcf7157",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afb5773c04c7f816",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "288f2afba19b474d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9606a0d95da9886c",
+  "lastOpenFiles": [
+    "README.md~",
+    "README.md",
+    "data-structures-and-algorithms/structures/Strings.md",
+    "data-structures-and-algorithms/structures/Techniques.md",
+    "2024-01-21.md",
+    "data-structures-and-algorithms/structures/Stack.md",
+    "data-structures-and-algorithms/structures/Linked List.md",
+    "data-structures-and-algorithms/structures/Hashmap.md",
+    "data-structures-and-algorithms/structures/Binary Tree.md",
+    "data-structures-and-algorithms/structures/Arrays.md",
+    "data-structures-and-algorithms/structures",
+    "data-structures-and-algorithms/Data Structures.md",
+    "data-structures-and-algorithms",
+    "DSA/structures/Arrays.md",
+    "DSA/structures/Binary Tree.md",
+    "DSA/structures/Hashmap.md",
+    "DSA/structures/Linked List.md",
+    "DSA/structures/Stack.md",
+    "DSA/structures/Strings.md",
+    "DSA/Data Structures.md",
+    "2024-01-20.md",
+    "DSA/structures",
+    "DSA/Hashmap/Hasmap.md",
+    "DSA/Hashmap",
+    "DSA/Strings/- Strings.md",
+    "DSA/Strings/Regex.md",
+    "DSA/Strings/ASCII Character Value.md",
+    "DSA/commons/Sliding Window.md",
+    "DSA/Arrays/- Arrays.md",
+    "DSA/commons",
+    "DSA/Arrays",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "DSA/Strings",
+    "DSA/Untitled.canvas",
+    "DSA",
+    "asdasd/Strings.md",
+    "asdasd"
+  ]
+}
