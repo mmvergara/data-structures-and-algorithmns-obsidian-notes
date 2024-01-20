@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba42f748ce0cd58",
+        "id": "d4af6eadecf018ee",
         "type": "tabs",
         "children": [
           {
-            "id": "9606a0d95da9886c",
+            "id": "b58f98e06c1adc12",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Binary-Search",
+                "query": "tag:#sliding-window2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,11 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9606a0d95da9886c",
+  "active": "b58f98e06c1adc12",
   "lastOpenFiles": [
+    "data-structures-and-algorithms/structures/Strings.md",
     "README.md~",
     "README.md",
-    "data-structures-and-algorithms/structures/Strings.md",
     "data-structures-and-algorithms/structures/Techniques.md",
     "2024-01-21.md",
     "data-structures-and-algorithms/structures/Stack.md",

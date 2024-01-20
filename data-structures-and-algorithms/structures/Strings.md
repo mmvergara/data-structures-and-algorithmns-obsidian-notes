@@ -1,3 +1,3 @@
 [[Data Structures]]
-- #sliding-window2
+- #sliding-windoww
 - #triee
